@@ -1,0 +1,7 @@
+[server]
+# Serve files in ./static at  <app-url>/app/static/<filename>
+enableStaticServing = true
+
+[theme]
+base = "light"
+primaryColor = "#3a86ff"
